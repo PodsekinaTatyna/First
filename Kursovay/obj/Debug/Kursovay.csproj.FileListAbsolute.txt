@@ -1,0 +1,11 @@
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\bin\Debug\Kursovay.exe.config
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\bin\Debug\Kursovay.exe
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\bin\Debug\Kursovay.pdb
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.csproj.AssemblyReference.cache
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.Form1.resources
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.Properties.Resources.resources
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.exe
+C:\Users\Professional\source\repos\CritPearsona\Kursovay\obj\Debug\Kursovay.pdb

@@ -1,0 +1,49 @@
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\bin\Debug\CritPearsona.exe.config
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\bin\Debug\CritPearsona.exe
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\bin\Debug\CritPearsona.pdb
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csprojResolveAssemblyReference.cache
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\obj\Debug\CritPearsona.Form1.resources
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\obj\Debug\CritPearsona.Properties.Resources.resources
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.GenerateResource.Cache
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\obj\Debug\CritPearsona.exe
+c:\users\professional\documents\visual studio 2015\Projects\CritPearsona\CritPearsona\obj\Debug\CritPearsona.pdb
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\CritPearsona.exe.config
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.exe
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.pdb
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\CritPearsona.exe
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\CritPearsona.pdb
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.Form1.resources
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.Properties.Resources.resources
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.GenerateResource.Cache
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.ResolveComReference.cache
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\EPPlus.dll
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\bin\Debug\EPPlus.xml
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.FormStart.resources
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.CopyComplete
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\CritPearsona.exe.config
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\CritPearsona.exe
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\CritPearsona.pdb
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\EPPlus.dll
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\EPPlus.xml
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.AssemblyReference.cache
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.SuggestedBindingRedirects.cache
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.ResolveComReference.cache
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.Form1.resources
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.FormStart.resources
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.Properties.Resources.resources
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.GenerateResource.cache
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.CoreCompileInputs.cache
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.csproj.CopyComplete
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.exe
+C:\Users\Professional\Desktop\флешка\Курсовая\CritPearsona\CritPearsona\obj\Debug\CritPearsona.pdb
